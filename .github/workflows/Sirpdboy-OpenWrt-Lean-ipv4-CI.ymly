@@ -183,7 +183,6 @@ jobs:
         CONFIG_PACKAGE_luci-app-serverchan=y
         CONFIG_PACKAGE_luci-app-smartdns=y
         CONFIG_PACKAGE_luci-app-smartinfo=y
-        CONFIG_PACKAGE_luci-app-syncdial=y
         CONFIG_PACKAGE_luci-app-vlmcsd=y
         CONFIG_LUCI_LANG_en=y
         EOF
