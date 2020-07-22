@@ -161,7 +161,6 @@ jobs:
         EOF
         # 常用LuCI插件选择:
         cat >> .config <<EOF
-        CONFIG_PACKAGE_luci-app-adbyby-plus=y
         CONFIG_PACKAGE_luci-app-adguardhome=y
 	CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_Kcptun=y
         CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_Shadowsocks=y
